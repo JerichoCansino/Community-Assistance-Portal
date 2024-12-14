@@ -93,7 +93,7 @@
                             <i class="bi bi-exclamation-circle text-danger"></i>
                             <h5 class="card-title mt-3">Emergency Services</h5>
                             <p class="card-text">Get quick access to essential emergency contacts.</p>
-                            <a href="#" class="btn btn-outline-danger">Access Now</a>
+                            <a href="emergency_services.php" class="btn btn-outline-danger">Access Now</a>
                         </div>
                     </div>
                 </div>
